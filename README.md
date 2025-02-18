@@ -1,6 +1,6 @@
 # TVSniffer: Fine-Grained Android TV Detection (No Permissions Required!)
 
-Let's rewind a bit... I recently started developing my first Android app, a radio player for my station ([your station URL or app name]), and everything was going smoothly until I hit a wall:  Android TV detection.  Existing methods were unreliable, inconsistent, and frankly, a pain to work with.  I needed a way to accurately detect TVs without compromising performance or user privacy.  That's how TVSniffer was born.
+Let's rewind a bit... I recently started developing my first Android app, a radio player for my station (NUDEradio.uk), and everything was going smoothly until I hit a wall:  Android TV detection.  Existing methods were unreliable, inconsistent, and frankly, a pain to work with.  I needed a way to accurately detect TVs without compromising performance or user privacy.  That's how TVSniffer was born.
 
 TVSniffer is designed to be run once at app startup and then forgotten.  It provides you with a risk level, which you can then use to make decisions about how to tailor your app's behavior.  No need for continuous checks or ongoing resource consumption.
 
